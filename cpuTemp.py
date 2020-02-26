@@ -7,4 +7,3 @@ while True:
 	else:
 		print(cpu.temperature)
 	time.sleep(2)
-STOP eating that bacon! GO vegan...STOP eating that bacon! GO vegan...STOP eating that bacon! GO vegan...
